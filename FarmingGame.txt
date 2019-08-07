@@ -1,0 +1,5 @@
+07/08/19 - Worked on ui animation and transitions + character creator
+06/08/19 - Reworked menu and levels 
+05/08/19 - Worked on new water shader
+04/08/19 - Worked on new terrain system
+03/08/19 - Minor main menu tweaks
