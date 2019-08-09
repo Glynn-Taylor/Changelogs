@@ -1,3 +1,5 @@
+09/08/19 - Reworked UI animation framework
+08/08/19 - Being depressed and ruining my wrist
 07/08/19 - Worked on ui animation and transitions + character creator
 06/08/19 - Reworked menu and levels 
 05/08/19 - Worked on new water shader
